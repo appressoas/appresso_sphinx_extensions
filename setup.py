@@ -10,7 +10,7 @@ setup(
     author='Espen Angell Kristiansen',
     author_email='post@espenak.net',
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['Sphinx'],
     include_package_data=True,
     long_description='See https://github.com/appressoas/appresso_sphinx_extensions',
     zip_safe=True,
