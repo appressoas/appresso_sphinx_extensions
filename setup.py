@@ -8,7 +8,7 @@ setup(
     license='BSD',
     url='https://github.com/appressoas/appresso_sphinx_extensions',
     author='Espen Angell Kristiansen',
-    author_email='post@espenak.net',
+    author_email='espen@appresso.no',
     packages=find_packages(),
     install_requires=['Sphinx'],
     include_package_data=True,

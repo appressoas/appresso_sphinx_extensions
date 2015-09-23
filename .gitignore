@@ -12,6 +12,7 @@ dist/
 __pycache__/
 
 /future-*.egg/
+not_for_deploy/docs/_build/
 
 # Ignore user-specific pycharm settings
 .idea/workspace.xml
